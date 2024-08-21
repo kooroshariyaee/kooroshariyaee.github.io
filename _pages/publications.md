@@ -18,11 +18,11 @@ redirect_from:
 <!-- Publications -->
 
 ### Peer-reviewed journal articles
-* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. (Accepted). Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in remote data collection. *Laboratory Phonology*.
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. (2024). Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in remote data collection. *Laboratory Phonology* 15(1).
 
 
 ### Book chapters 
-* **Ariyaee, Koorosh**. (In press). Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A. Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
+* **Ariyaee, Koorosh**. (2024). Triggers and targets: nasals and vowels in Tehrani Persian. In *The Handbook of Persian Dialects and Dialectology*, eds. A. Korangy, B. Mahmoodi-Bakhtiari & P. Shabani-Jadidi. Springer.
 
 * **Ariyaee, Koorosh**. Persian vowel hiatus. (Accepted). In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z. Ghane. Springer.
 
