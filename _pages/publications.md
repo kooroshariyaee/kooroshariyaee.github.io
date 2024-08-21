@@ -18,7 +18,7 @@ redirect_from:
 <!-- Publications -->
 
 ### Peer-reviewed journal articles
-* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. (Accepted). Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in remote data collection. *Laboratory Phonology*.
+* **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. (2024). Acoustics of guttural fricatives in Arabic, Armenian, and Kurdish: A case in remote data collection. *Laboratory Phonology*.
 
 
 ### Book chapters 
