@@ -20,6 +20,11 @@ strategies. Invited speaker series workshop on language barrier at *Youth 4 Succ
 February 27. Toronto, Canada.
 
 ## Refereed conference presentations
+* **Ariyaee, Koorosh**, Philip Monahan, Jessamyn Schertz. (2025). Lexical representation of noncanonical forms: Evidence from Persian. Oral presentation at *The Annual Meeting of the Cognitive Science Society (CogSci 2025)*. July 30-Aug. 2. San
+Francisco, USA.
+
+* **Ariyaee, Koorosh**, Philip Monahan, Jessamyn Schertz. (2025). The representation of noncanonical forms in Persian. Oral presentation at *The Fourth North American Conference on Iranian Linguistics (NACIL 4)*. May 23-25. University of Toronto Mississauga.
+
 * **Ariyaee, Koorosh**, Chahla Ben-Ammar, Talia Tahtadjian, Alexei Kochetov. (2023). An acoustic analysis of guttural fricatives in Arabic, Armenian, and Kurdish.
 Oral presentation at *The Third North American Conference in Iranian Linguistics (NACIL 3)*. April 21-23. UCLA.
 
