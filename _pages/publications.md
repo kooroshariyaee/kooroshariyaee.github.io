@@ -27,7 +27,7 @@ redirect_from:
 * **Ariyaee, Koorosh**. Persian vowel hiatus. (To appear). In *The Handbook of Phonetics and Phonology of Modern Iranian Languages*, eds. R. Falahati & Z. Ghane. Springer.
 
 ### Conference proceedings & working papers
-* **Ariyaee, Koorosh**, Philip Monahan, Jessamyn Schertz. (To appear). Lexical representation of noncanonical forms: Evidence from Persian. In *In Proceedings of the Annual Meeting of the Cognitive Science Society*.
+* **Ariyaee, Koorosh**, Philip Monahan, Jessamyn Schertz. (To appear). Lexical representation of noncanonical forms: Evidence from Persian. In *Proceedings of the Annual Meeting of the Cognitive Science Society*.
 
 * **Ariyaee, Koorosh**. (2023). Nominal linkers in Persian. In *Nominal Linkers in Iranian languages,* eds. S. Taghipour & A. Kahnemuyipour. Toronto Working Papers in Linguistics.
 
